@@ -1,0 +1,5 @@
+flask
+bson
+pymongo==3.7.2
+requests
+kafka-python
